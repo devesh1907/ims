@@ -10,3 +10,4 @@ c).PACKAGING_DATE
 d).EXPIRY_DATE
 e).PRICE OF PRODUCT
 also the billing details with calculation is provided
+purchasing file contains all attribute as well as sales details
